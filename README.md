@@ -7,6 +7,7 @@ An API for a social media app built with Express.js, Mongoose.js and MongoDB.
 https://youtu.be/yaCkOrPzK0E
 
 ## Repo URL
+https://github.com/mjb4040/social-media-api
 
 ## Usage
 - Install and start MongoDB
