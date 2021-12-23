@@ -4,7 +4,7 @@
 An API for a social media app built with Express.js, Mongoose.js and MongoDB.
 
 ## Demo Video
-
+https://youtu.be/yaCkOrPzK0E
 
 ## Repo URL
 
